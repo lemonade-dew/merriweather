@@ -5,7 +5,7 @@
 
 
 <style>
-font {font-family:Merriweather; font-color:lightblue; background color:black;}
+.font {font-family:Merriweather; font-color:lightblue; background color:black;}
 
 
 </style>
